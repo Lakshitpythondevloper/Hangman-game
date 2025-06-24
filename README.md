@@ -43,11 +43,5 @@ hangman-game/
 ### Prerequisites
 
 - Python 3.x installed on your machine.
-
-### Steps
-
-1. **Clone the repository** (or download manually):
-
-   ```bash
-   git clone https://github.com/yourusername/hangman-game.git
-   cd hangman-game
+- Intall editor Vs code or pycharm
+- Download the .py files from the github of hangman.py etc.
