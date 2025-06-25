@@ -1,4 +1,5 @@
 # 🕹️ Hangman Game (Python Console Edition)
+![Project Logo](https://cdn-icons-png.freepik.com/256/13338/13338262.png?semt=ais_hybrid)
 
 Welcome to the classic **Hangman Game**, recreated in Python for the terminal! This is a beginner-friendly project that helps you understand loops, conditionals, string manipulation, and user input in Python.
 
